@@ -1,0 +1,112 @@
+[
+    {
+        "id": 2,
+        "name": "ASUS VivoBook 15",
+        "category": "Laptop",
+        "brand": "ASUS",
+        "specifications": "Intel i5, 16GB RAM, 512GB SSD",
+        "price": 58000,
+        "stock": 12,
+        "warranty": "1 Year"
+    },
+    {
+        "id": 3,
+        "name": "HP Laptop",
+        "category": "Laptop",
+        "brand": "HP",
+        "specifications": "Intel i5, 8GB RAM, 512GB SSD",
+        "price": 55000,
+        "stock": 10,
+        "warranty": "1 Year"
+    },
+    {
+        "id": 4,
+        "name": "Dell Keyboard",
+        "category": "Accessories",
+        "brand": "Dell",
+        "specifications": "Wireless Keyboard",
+        "price": 1200,
+        "stock": 25,
+        "warranty": "6 Months"
+    },
+    {
+        "id": 4,
+        "name": "Lenovo IdeaPad",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "specifications": "Intel i5, 8GB RAM, 512GB SSD",
+        "price": 52000,
+        "stock": 15,
+        "warranty": "1 Year"
+    },
+    {
+        "id": 5,
+        "name": "Logitech Wireless Mouse",
+        "category": "Mouse",
+        "brand": "Logitech",
+        "specifications": "Wireless, 2.4GHz, 1600 DPI",
+        "price": 899,
+        "stock": 30,
+        "warranty": "1 Year"
+    },
+    {
+        "id": 6,
+        "name": "Dell Inspiron",
+        "category": "Laptop",
+        "brand": "Dell",
+        "specifications": "Intel i7, 16GB RAM, 512GB SSD",
+        "price": 68000,
+        "stock": 7,
+        "warranty": "2 Years"
+    },
+    {
+        "id": 7,
+        "name": "HP Wireless Keyboard",
+        "category": "Keyboard",
+        "brand": "HP",
+        "specifications": "Wireless, USB Receiver",
+        "price": 1499,
+        "stock": 20,
+        "warranty": "1 Year"
+    },
+    {
+        "id": 8,
+        "name": "Samsung Monitor",
+        "category": "Monitor",
+        "brand": "Samsung",
+        "specifications": "24 inch, Full HD, 75Hz",
+        "price": 12500,
+        "stock": 12,
+        "warranty": "2 Years"
+    },
+    {
+        "id": 9,
+        "name": "Lenovo Laptop Bag",
+        "category": "Laptop Bag",
+        "brand": "Lenovo",
+        "specifications": "15.6 inch, Water Resistant",
+        "price": 999,
+        "stock": 40,
+        "warranty": "6 Months"
+    },
+    {
+        "id": 10,
+        "name": "Dell Inspiron 15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "specifications": "Intel i7, 16GB RAM, 1TB SSD",
+        "price": 72000,
+        "stock": 10,
+        "warranty": "2 Years"
+    },
+    {
+        "id": 11,
+        "name": "Samsung Smart Monitor",
+        "category": "Monitor",
+        "brand": "Samsung",
+        "specifications": "27 inch, 4K, 144Hz",
+        "price": 22000,
+        "stock": 8,
+        "warranty": "3 Years"
+    }
+]
